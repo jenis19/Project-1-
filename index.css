@@ -1,0 +1,4 @@
+.container{margin: auto ;display: flex;
+flex-direction: column;justify-content: center;align-items: center;}button{padding: 20px;margin: 0px 3px;border: 2px solid black; border-radius: 9px;cursor: pointer;}.row{margin: 7px 0}.row input{padding: 10px 0px;border: 2px solid;border-radius: 6px;font-size: 20px;text-align: center;}.jk {
+  width: 228px;
+}
